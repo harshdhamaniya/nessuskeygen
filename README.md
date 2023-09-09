@@ -4,6 +4,9 @@ This Python script allows you to generate Nessus Professional Keys directly with
 
 ## Usage
 
+![usage](https://github.com/harshdhamaniya/nessuskeygen/assets/116166209/b6ba73de-1d85-4edc-8032-df0614e45429)
+
+
 To generate a Nessus Professional Key using the script, simply run the following command:
 
 ```bash
