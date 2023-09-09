@@ -148,7 +148,7 @@ def generate_nessus_expert():
     payload = {
         "first_name": random_first_name,
         "last_name": random_last_name,
-        "email": f"{random_name}@nangia-andersen.com",
+        "email": f"{random_name}@harsh-dhamaniya.com",
         "phone": random_phone,
         "code": "",
         "country": "IN",
