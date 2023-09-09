@@ -24,8 +24,8 @@ def get_mail():
 
 def generate_nessus_pro():
     data = {
-        "first_name": "moahn",
-        "last_name": "lal",
+        "first_name": "cheems",
+        "last_name": "Singh",
         "email": get_mail(),
         "phone": random.randrange(0000000000, 9999999999, 10),
         "code": "",
