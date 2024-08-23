@@ -2,6 +2,14 @@
 
 This Python script allows you to generate Nessus Professional Keys directly without having to fill out the registration form. It simplifies the process and makes it more convenient for users to get started with Nessus.
 
+## Updates 23-08-2024
+
+- **Unified Key Generation**: Combined key generation for Nessus Professional and Expert into a single function.
+- **Improved Request Handling**: Enhanced management of request fields and response parsing.
+- **Debug Output**: Added debug output for better troubleshooting.
+- **Simplified User Interface**: Removed redundant functions to streamline user interaction.
+- **Updated API URL**: Changed API URL to `https://www.tenable.com/evaluations/api/v2/trials` for both Nessus Professional and Expert key generation.
+
 ## Usage
 
 https://github.com/harshdhamaniya/nessuskeygen/assets/116166209/b7cee19c-af86-44a7-9a55-4e8ce094a949
